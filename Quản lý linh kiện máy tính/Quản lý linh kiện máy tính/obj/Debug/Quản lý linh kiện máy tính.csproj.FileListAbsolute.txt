@@ -1,0 +1,22 @@
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\bin\Debug\Quản lý linh kiện máy tính.exe.config
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\bin\Debug\Quản lý linh kiện máy tính.exe
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\bin\Debug\Quản lý linh kiện máy tính.pdb
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\bin\Debug\EntityFramework.dll
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\bin\Debug\EntityFramework.SqlServer.dll
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\bin\Debug\EntityFramework.xml
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\bin\Debug\EntityFramework.SqlServer.xml
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản lý linh kiện máy tính.csprojResolveAssemblyReference.cache
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.Properties.Resources.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản lý linh kiện máy tính.csproj.GenerateResource.Cache
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản lý linh kiện máy tính.exe
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản lý linh kiện máy tính.pdb
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmDangNhap.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmChinh.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.Frmdoimatkhau.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmKhoHang.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmThemSp.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmThongKe.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmSua.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmThongTin.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmBanSp.resources
+D:\quanlylinhkienmaytinh\Quản lý linh kiện máy tính\Quản lý linh kiện máy tính\obj\Debug\Quản_lý_linh_kiện_máy_tính.FrmHoaDon.resources
